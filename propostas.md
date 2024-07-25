@@ -6,4 +6,6 @@
 
 ### 
 
-### Alunos ingressos na rede de ensino 
+### Alunos ingressos na rede de ensino e comunidade escolar (pais e outros interessados nos assuntos do grêmio estudantil)
+
+### Os membros do grêmio poderão: criar enquetes; postar vídeos, notícias, comunicados, eventos (como na página inicial do IFNMG); Realizar votações em períodos eleitorais do grêmio, 
