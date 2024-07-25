@@ -1,4 +1,4 @@
-# "Yakuza: Like a Dragon" Fanclub &lt3
+# "Yakuza: Like a Dragon" Fanclub <3
 
 ### Integrantes
 - [Alan Miranda Assis](https://github.com/AlanM1rand4)
