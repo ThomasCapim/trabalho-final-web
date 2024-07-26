@@ -13,6 +13,7 @@ Por isso, por ser uma das necessidades do grêmio, o site buscará evitar proble
 Alunos ingressos na rede de ensino e comunidade escolar (pais e outros interessados nos assuntos do grêmio estudantil)
 
 ### Funcionalidades
+1. texto
 Os membros do grêmio poderão: criar enquetes; postar vídeos, notícias, comunicados, eventos (como na página inicial do IFNMG); Realizar votações em períodos eleitorais do grêmio, 
 
 ---
