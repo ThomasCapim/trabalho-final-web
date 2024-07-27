@@ -13,9 +13,15 @@ Por isso, por ser uma das necessidades do grêmio, o site buscará evitar proble
 Alunos ingressos na rede de ensino e comunidade escolar (pais e outros interessados nos assuntos do grêmio estudantil)
 
 ### Funcionalidades
-(Levando em consideração a ordem de liberação nas atividades de WEB que vão de textos simples a imagens e links)
-1. 
-Os membros do grêmio poderão: criar enquetes; postar vídeos, notícias, comunicados, eventos (como na página inicial do IFNMG); Realizar votações em períodos eleitorais do grêmio, 
+1. Tela de login para membros do grêmio, a principio;
+2. Página "Sobre o grêmio", mostrando diversas informações sobre o grêmio e seus membros;
+3. Guia de pautas do grêmio, mostrando se foram ou não feitas e uma descrição (opcional) mostrando atualizações da proposta (por que não concluiu ou detalhes do estado atual);
+4. Postagem de notícias, comunicados etc. com ou sem mídias (como no site do IFNMG);
+5. Criação de contas e login (dessa vez para os alunos) com e-mail de confirmação (a menos que haja alguma integração com banco de dados da escola para usar as mesmas credenciais dos alunos);
+6. Opção de comentar, curtir e compartilhar em publicações;
+7. Votações eleitorais de chapas para o grêmio estudantil (mostrando pautas, os membros da chapa e seus cargos);
+8. Fórums de discussão para discutir sobre algo em determinada diretoria;
+9. Criação de enquetes rápidas, questionários e formulários.
 
 ---
 
