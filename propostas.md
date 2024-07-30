@@ -39,23 +39,13 @@ O site do jornal escolar do IFNMG tem como missão oferecer uma plataforma onlin
 Alunos, Professores, Funcionários, Ex-alunos, Comunidade Externa,  Potenciais Parceiros e Patrocinadores, Pais e Responsáveis.
 
 ### Funcionalidades
-1. Login de Usuário: Nome de usuário e senha
-
-2. Página Inicial:
-Artigos Recentes: Exibição das reportagens mais recentes e em destaque.
-Calendário de Eventos: Visualização de eventos futuros como jogos e datas comemorativas Notícias em Destaque: Seção com as principais notícias e reportagens em destaque.
-
-3. Seção de Reportagens:
-Histórias de Alunos: Artigos e reportagens de discentes 
-Entrevistas: Entrevistas com membros da comunidade escolar
-
-4. Seção de multimídia:
-Galeria: Vídeos e imagens relacionadas a atividades e eventos escolares
-
-5. Seção de Contato:
-Formulário de Contato: Formulário para envio de perguntas e sugestões e feedback sobre o site.
-Informações de Contato: Detalhes de contato da equipe
-
+1. Login de Usuário: Nome de usuário e senha;
+3. Artigos Recentes: Exibição das reportagens mais recentes e em destaque;
+4. Calendário de Eventos: Visualização de eventos futuros como jogos e datas comemorativas;
+5. Notícias em Destaque: Seção com as principais notícias e reportagens em destaque;
+6. Seção de Reportagens: Artigos, notícias e entrevistas feitas por discentes;
+7. Seção de Galeria: Vídeos e imagens relacionadas a atividades e eventos escolares;
+8. Informações de contato de Contato: Formulários para feedback e informações de contato da equipe do site.
 
 ---
 
