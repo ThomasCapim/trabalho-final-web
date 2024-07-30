@@ -27,15 +27,35 @@ Alunos ingressos na rede de ensino e comunidade escolar (pais e outros interessa
 
 # Proposta 02
 
-## Nome da proposta
+## Site do Jornal Escolar do Instituto Federal do Norte de Minas Gerais - IFNMG
 
 ### Descrição
+O site do jornal escolar do IFNMG tem como missão oferecer uma plataforma online interativa para a publicação de notícias, artigos e reportagens sobre eventos e datas importantes do calendário escolar. Diferente do edital do IFNMG, que possui um tom mais formal e estruturado, o jornal adota uma abordagem mais informal, mas sem perder a formalidade necessária. O objetivo é conectar estudantes, professores e a comunidade externa, promovendo transparência, engajamento e troca de informações sobre eventos e atividades acadêmicas. Além disso, o portal visa melhorar a disseminação de informações, incentivar a participação dos alunos, oferecer reconhecimento e expressão, e fortalecer a conexão com a comunidade externa. Também proporciona oportunidades para o desenvolvimento de habilidades práticas e promove a inclusão, criando um ambiente escolar mais coeso e dinâmico.
 
 ### Problema a ser solucionado
+ Não ter um jornal estudantil no Instituto Federal pode resultar em uma série de problemas que impactam tanto a comunidade escolar quanto o ambiente educacional. Como a falta de comunicação eficiente onde a informação sobre eventos, mudanças e novidades pode não ser disseminada de forma eficaz, levando a uma falta de conhecimento entre alunos e funcionários. Além de considerando que o edital do IFNMG pode ser um pouco complicado de usar e entender a criação do jornal se tornaria um ambiente mais inclusivo e colaborativo dentro da instituição como também melhoraria a transparência, o engajamento e a coesão dentro da comunidade acadêmica.
 
 ### Público-alvo
+Alunos, Professores, Funcionários, Ex-alunos, Comunidade Externa,  Potenciais Parceiros e Patrocinadores, Pais e Responsáveis.
 
 ### Funcionalidades
+Login de Usuário: Nome de usuário e senha
+
+Página Inicial:
+Artigos Recentes: Exibição das reportagens mais recentes e em destaque.
+Calendário de Eventos: Visualização de eventos futuros como jogos e datas comemorativas Notícias em Destaque: Seção com as principais notícias e reportagens em destaque.
+
+Seção de Reportagens:
+Histórias de Alunos: Artigos e reportagens de discentes 
+Entrevistas: Entrevistas com membros da comunidade escolar
+
+Seção de multimídia:
+Galeria: Vídeos e imagens relacionadas a atividades e eventos escolares
+
+Seção de Contato:
+Formulário de Contato: Formulário para envio de perguntas e sugestões e feedback sobre o site.
+Informações de Contato: Detalhes de contato da equipe
+
 
 ---
 
