@@ -51,12 +51,19 @@ Alunos, Professores, Funcionários, Ex-alunos, Comunidade Externa,  Potenciais P
 
 # Proposta 03
 
-## Nome da proposta
+## Site de Agendamento na cabeleireiria "Salão do Biel"
 
 ### Descrição
+O site do "Salão do Biel" é uma plataforma digital inovadora que visa facilitar o agendamento de cortes de cabelo e barba de maneira prática e rápida. Com o propósito para proporcionar uma experiência eficiente e moderna, o site permitira que os clientes agendassem seus serviços de beleza no conforto de suas casas, sem a necessidade de ligações telefÔnicas ou visitas presenciais para marcar um horário.
 
 ### Problema a ser solucionado
+Atualmente, o agendamento de serviços no "Salão do Biel" é feito de maneira tradicional, o que pode causar inconvêniencias tanto para os clientes quanto para os profissionais do salão. As principais dificuldades enfrentadas incluem a falta de organização nos horários, a demora no antendimento de chamadas telefônicas para marcações e a ausência de uma maneira prática de verificar as disponibilidades de horários em tempo real.
 
 ### Público-alvo
+Pessoas que buscam cortes de cabelo ou serviços de beleza relacionados na cidade de Rubelita.
 
 ### Funcionalidades
+1. Tela de login, solicitação inicial de e-mail e número de telefone do cliente;
+2. Escolha da data, selecionando o dia desejado para o serviço escolhido;
+3. Seleção do serviço, com opções de serviços oferecidos pelo salão, como cortes de cabelo e barba;
+4. Método de pagamento, como os métodos Pix, cartão de crédito ou pagamento em dinheiro.
